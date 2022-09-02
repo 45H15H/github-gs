@@ -5,3 +5,5 @@ for i in range(10):
     print("{} ^ 2 = {}.".format(i, square(i)))
 print("Done")
 print("BYE")
+for j in range(10):
+    print("Yay!")
