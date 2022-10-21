@@ -1,3 +1,4 @@
 creating new text file
 changes for commit 1
 changes for commit 2
+changes for commit 3
